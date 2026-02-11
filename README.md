@@ -1,1 +1,2 @@
 # deploy-classwork
+# hardhat CA - 0x2474FDAA12c67dc166C10FDE5821880f9E65DE32
